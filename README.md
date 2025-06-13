@@ -100,3 +100,5 @@ For questions or collaboration opportunities, feel free to reach out via GitHub 
 ---
 
 > "Better insights lead to better air." – This project supports sustainable urban planning through data-driven decision-making.
+
+https://github.com/SAIABHILASHKARRI37/Hydrabad_AQI_Analysis/blob/main/Screenshot%202025-06-13%20104803.png
