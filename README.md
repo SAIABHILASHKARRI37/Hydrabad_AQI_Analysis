@@ -95,7 +95,7 @@ Dataset from [Kaggle - Air Pollution in Indian Cities](https://www.kaggle.com/da
 
 ## 📬 Contact
 
-For questions or collaboration opportunities, feel free to reach out via GitHub or [LinkedIn](#).
+For questions or collaboration opportunities, feel free to reach out via GitHub or [https://www.linkedin.com/in/saiabhilashkarri](#).
 
 ---
 
